@@ -1,2 +1,2 @@
 # python
-some tools for web pentest.
+python 代码
